@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JoelArnaldich/ahorcado.git/static/css/main.e6c13ad2.css",
+    "main.js": "/JoelArnaldich/ahorcado.git/static/js/main.8d995a4b.js",
+    "static/js/453.ef76273f.chunk.js": "/JoelArnaldich/ahorcado.git/static/js/453.ef76273f.chunk.js",
+    "index.html": "/JoelArnaldich/ahorcado.git/index.html",
+    "main.e6c13ad2.css.map": "/JoelArnaldich/ahorcado.git/static/css/main.e6c13ad2.css.map",
+    "main.8d995a4b.js.map": "/JoelArnaldich/ahorcado.git/static/js/main.8d995a4b.js.map",
+    "453.ef76273f.chunk.js.map": "/JoelArnaldich/ahorcado.git/static/js/453.ef76273f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d995a4b.js"
+  ]
+}
